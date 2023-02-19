@@ -10,4 +10,4 @@ A tray icon for Tailscale. Very early and does not do much except for connect an
 
 `pip install -r requirements.txt`
 
-`./tailscalegui.py`
+`python3 tailscalegui.py`
